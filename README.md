@@ -4,10 +4,10 @@ Using ESP32 to control the movement of the motor shaft.
 ## Task number: 04
 ## Task name: Controlling servo motor with ESP32.
 
-##Reference
+## Reference
 https://dronebotworkshop.com/esp32-servo/
 
-##  Components used
+## Components used
 micro servo motor, ESP32, potentiometer, servo power supply, DC jack, jumper wires, breadboard.
 
 ## Connections
@@ -27,9 +27,8 @@ https://github.com/meghana-23-7/Controlling-servo-motor-usiing-ESP32/blob/main/s
 ### Knob
 https://github.com/meghana-23-7/Controlling-servo-motor-usiing-ESP32/blob/main/sketch_task4knob.ino
  
-### Web controlled: 
-           
-            
+### Web controlled
+https://github.com/meghana-23-7/Controlling-servo-motor-usiing-ESP32/blob/main/sketch_task4WebControl.ino
 
 ## Problems faced
 Servo was rotating full 360 degrees on its own, it was because of some loose connection, when connections were rechecked it worked as directed in the code.
