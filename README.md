@@ -1,8 +1,8 @@
 # Controlling-servo-motor-usiing-ESP32
 Using ESP32 to control the movement of the motor shaft.
 
-##Task number: 04
-##Task name: Controlling servo motor with ESP32.
+## Task number: 04
+## Task name: Controlling servo motor with ESP32.
 
 ##Reference
 https://dronebotworkshop.com/esp32-servo/
@@ -25,6 +25,7 @@ A web page was created with a slider on it, and is managed using the IP address.
 https://github.com/meghana-23-7/Controlling-servo-motor-usiing-ESP32/blob/main/sketch_task4sweepa.ino
 
 ### Knob
+https://github.com/meghana-23-7/Controlling-servo-motor-usiing-ESP32/blob/main/sketch_task4knob.ino
  
 ### Web controlled: 
            
