@@ -12,7 +12,9 @@ micro servo motor, ESP32, potentiometer, servo power supply, DC jack, jumper wir
 
 ## Connections
 Sweep: connect ground and VCC wires of servo motor to ground and VCC of ESP32 respectively. Next, connect the control input pin of the servo to GPIO18 of the ESP32.
+
 Knob: connect middle wire of potentiometer to GPIO34 of ESP32, and connect one of the other two to ground and 3V pins of ESP32. Connect the ground of the servo motor and ground of the ESP32 to the ground pins of the DC power supply. Connect control pin of servo to GPIO18 of ESP32.
+
 Web remote controlled: connect ground and VCC wires of servo motor to ground and VCC of ESP32 respectively. Next, connect the control input pin of the servo to GPIO18 of the ESP32. Once the code is uploaded, it prints an IP address on the serial monitor. Copy this and open it on any device connected to the internet, now monitor the movement of the servo motor shaft based on the slider.
 
 ## Theory 
