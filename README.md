@@ -21,9 +21,10 @@ In the knob sketch, we use a potentiometer to position the motor shaft. It moves
 A web page was created with a slider on it, and is managed using the IP address. 
 
 ## Code
-### Sweep: 
+### Sweep
+https://github.com/meghana-23-7/Controlling-servo-motor-usiing-ESP32/blob/main/sketch_task4sweepa.ino
 
-### Knob:
+### Knob
  
 ### Web controlled: 
            
